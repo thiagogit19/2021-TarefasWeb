@@ -25,7 +25,7 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           Powered by{' '}
-          Infoweb 2021
+          Infoweb 2021 - Thiago Xavier Lemos
         </a>
       </footer>
     </div>
