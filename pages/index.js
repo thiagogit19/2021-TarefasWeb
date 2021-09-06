@@ -16,6 +16,8 @@ export default function Home() {
         <h1 className={styles.title}>
           {title}
         </h1>
+
+        <h2>Minhas tarefas diárias</h2>
       </main>
 
       <footer className={styles.footer}>
